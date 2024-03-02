@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "K:/Studia/S05/VLSI/243168/LAB08/PWM_tb_isim_beh.exe" -prj "K:/Studia/S05/VLSI/243168/LAB08/PWM_tb_beh.prj" "work.PWM_tb" 

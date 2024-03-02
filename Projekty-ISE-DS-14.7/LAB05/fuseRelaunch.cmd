@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/VLSI/243168/LAB05/Tester_Licznik_isim_beh.exe" -prj "C:/VLSI/243168/LAB05/Tester_Licznik_beh.prj" "work.Tester_Licznik" 

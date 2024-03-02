@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/VLSI/243168/Bramka_3stan/Test_bramki3_isim_beh.exe" -prj "C:/VLSI/243168/Bramka_3stan/Test_bramki3_beh.prj" "work.Test_bramki3" 

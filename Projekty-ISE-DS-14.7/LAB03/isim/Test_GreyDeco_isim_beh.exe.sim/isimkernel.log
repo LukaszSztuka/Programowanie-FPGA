@@ -1,0 +1,35 @@
+Command line:
+   Test_GreyDeco_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52513
+
+Thu Oct 17 14:39:29 2019
+
+
+ Elaboration Time: 0.234375 sec
+
+ Current Memory Usage: 5815.62 Meg
+
+ Total Signals          : 4
+ Total Nets             : 20
+ Total Signal Drivers   : 2
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 380
+Total Line Count : 7
+
+** Failure:Assertion violation
+User(VHDL) Code Called Simulation Stop
+In process Test_GreyDeco.vhd:stim_proc 
+ 
+
+
+ Total Simulation Time: 0.25 sec
+
+ Current Memory Usage: 5186.44 Meg
+
+Thu Oct 17 14:53:33 2019
+

@@ -1,0 +1,3 @@
+vhdl isim_temp "SumatoP.vhd"
+vhdl isim_temp "suator.vhd"
+vhdl isim_temp "Sumator2B.vhd"

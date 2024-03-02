@@ -1,0 +1,2 @@
+vhdl isim_temp "MUX4tol.vhd"
+vhdl isim_temp "Test_MUX4tol.vhd"

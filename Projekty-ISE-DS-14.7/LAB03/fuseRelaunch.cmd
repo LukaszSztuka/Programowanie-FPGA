@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/VLSI/243168/LAB03/Test_GreyDeco_isim_beh.exe" -prj "C:/VLSI/243168/LAB03/Test_GreyDeco_beh.prj" "work.Test_GreyDeco" 

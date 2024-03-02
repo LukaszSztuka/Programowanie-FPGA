@@ -1,0 +1,24 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "C:/VLSI/243168/LAB09/Test_pliki_isim_beh.exe" -prj "C:/VLSI/243168/LAB09/Test_pliki_beh.prj" "work.Test_pliki" 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/VLSI/243168/LAB09/Pliki.vhd" into library work
+Parsing VHDL file "C:/VLSI/243168/LAB09/Test_pliki.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 161900 KB
+Fuse CPU Usage: 202 ms
+Compiling package standard
+Compiling package textio
+Compiling package std_logic_1164
+Compiling package std_logic_textio
+Compiling package numeric_std
+Compiling architecture pliki_arch of entity Pliki [pliki_default]
+Compiling architecture behavior of entity test_pliki
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 8 VHDL Units
+Built simulation executable C:/VLSI/243168/LAB09/Test_pliki_isim_beh.exe
+Fuse Memory Usage: 182508 KB
+Fuse CPU Usage: 312 ms

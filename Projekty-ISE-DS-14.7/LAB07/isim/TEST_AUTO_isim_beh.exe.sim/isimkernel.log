@@ -1,0 +1,35 @@
+Command line:
+   TEST_AUTO_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49398
+
+Thu Nov 28 14:45:27 2019
+
+
+ Elaboration Time: 0.21875 sec
+
+ Current Memory Usage: 1321 Meg
+
+ Total Signals          : 11
+ Total Nets             : 10
+ Total Signal Drivers   : 7
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 6
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 389
+Total Line Count : 45
+
+** Failure:Assertion violation
+User(VHDL) Code Called Simulation Stop
+In process TEST_AUTO.vhd:stim_proc 
+ 
+
+
+ Total Simulation Time: 0.375 sec
+
+ Current Memory Usage: 848.466 Meg
+
+Thu Nov 28 14:46:43 2019
+

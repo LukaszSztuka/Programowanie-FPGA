@@ -1,0 +1,35 @@
+Command line:
+   TEST_PIPO_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64457
+
+Thu Nov 07 13:54:45 2019
+
+
+ Elaboration Time: 0.203125 sec
+
+ Current Memory Usage: 1319.55 Meg
+
+ Total Signals          : 8
+ Total Nets             : 18
+ Total Signal Drivers   : 4
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 379
+Total Line Count : 20
+
+** Failure:Assertion violation
+User(VHDL) Code Called Simulation Stop
+In process TEST_PIPO.vhd:stim_proc 
+ 
+
+
+ Total Simulation Time: 0.21875 sec
+
+ Current Memory Usage: 1319.66 Meg
+
+Thu Nov 07 13:54:59 2019
+

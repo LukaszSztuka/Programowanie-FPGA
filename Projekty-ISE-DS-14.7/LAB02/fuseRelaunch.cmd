@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/VLSI/243168/Laby2/Tester_Sum2B_isim_beh.exe" -prj "C:/VLSI/243168/Laby2/Tester_Sum2B_beh.prj" "work.Tester_Sum2B" 

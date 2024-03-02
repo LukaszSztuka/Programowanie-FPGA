@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/VLSI/243168/LAB06/TEST_Serializer_isim_beh.exe" -prj "C:/VLSI/243168/LAB06/TEST_Serializer_beh.prj" "work.TEST_Serializer" 

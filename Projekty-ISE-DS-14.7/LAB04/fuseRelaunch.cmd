@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/VLSI/243168/LAB04/LAB04/TEST_PIPO_isim_beh.exe" -prj "C:/VLSI/243168/LAB04/LAB04/TEST_PIPO_beh.prj" "work.TEST_PIPO" 

@@ -1,0 +1,4 @@
+vhdl work "SumatoP.vhd"
+vhdl work "suator.vhd"
+vhdl work "Sumator2B.vhd"
+vhdl work "Tester_Sum2B.vhd"

@@ -1,0 +1,2 @@
+vhdl isim_temp "Serializer.vhd"
+vhdl isim_temp "TEST_Serializer.vhd"

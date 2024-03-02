@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/lenovo00/Desktop/VLSI/CZ_243168_Sztuka/test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/test/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/vzl" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">vzl</obj_property>
+      <obj_property name="ObjectShortName">vzl</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffa500</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/iizl" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">iizl</obj_property>
+      <obj_property name="ObjectShortName">iizl</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffa500</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/izl" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">izl</obj_property>
+      <obj_property name="ObjectShortName">izl</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffa500</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/rodzajnap" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rodzajnap[2:0]</obj_property>
+      <obj_property name="ObjectShortName">rodzajnap[2:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#0000ff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/ilosccuk" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ilosccuk[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ilosccuk[1:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#c0c0c0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut2/saldo" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">saldo</obj_property>
+      <obj_property name="ObjectShortName">saldo</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut2/cenan" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">cenan</obj_property>
+      <obj_property name="ObjectShortName">cenan</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut2/cenac" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">cenac</obj_property>
+      <obj_property name="ObjectShortName">cenac</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut2/cena" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">cena</obj_property>
+      <obj_property name="ObjectShortName">cena</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut2/reszta" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">reszta</obj_property>
+      <obj_property name="ObjectShortName">reszta</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/rvzl" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rvzl</obj_property>
+      <obj_property name="ObjectShortName">rvzl</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/riizl" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">riizl</obj_property>
+      <obj_property name="ObjectShortName">riizl</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/rizl" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rizl</obj_property>
+      <obj_property name="ObjectShortName">rizl</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/nap" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">nap[2:0]</obj_property>
+      <obj_property name="ObjectShortName">nap[2:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#000080</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/cuk" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">cuk[1:0]</obj_property>
+      <obj_property name="ObjectShortName">cuk[1:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#808080</obj_property>
+   </wvobject>
+</wave_config>
